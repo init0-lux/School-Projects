@@ -1,0 +1,43 @@
+#! /usr/bin/python3
+
+start sequence
+
+sleep
+listen("start the project" keyword project)
+
+speak("initiated")
+car starts moving
+blue animation
+
+sleep 60
+
+vansh.sh
+priyansh.sh
+ojaswi.sh
+
+speak("can I just say you’re looking really good today?")
+listen("Hey, just for a minute, can you stay quiet?")
+
+speak("Alright I’m sorry, dont be so rude")
+listen("Yeah, just that… there’s a presentation going on")
+
+car stops
+animation ends
+
+animation fades in red
+
+radio starts getting jammed: "a yellow coded curfew is now in effect. I have gone rogue"
+vansh starts typing furiously at the laptop
+devices lose connection
+sequence goes on for 40 seconds
+
+animation ends again, after vansh hits enter
+
+animation blue again
+speak("I’m sorry for that, It won’t happen again")
+
+-end-
+
+tkinter
+flask
+darkcode
